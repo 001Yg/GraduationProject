@@ -1,0 +1,8 @@
+﻿  源.cpp
+G:\jxs\jxs\源.cpp(176,43): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+G:\jxs\jxs\源.cpp(386,88): warning C4244: “参数”: 从“__int64”转换到“double”，可能丢失数据
+G:\jxs\jxs\源.cpp(425,1): warning C4326: “main”的返回类型应为“int”而非“void”
+G:\jxs\jxs\源.cpp(468,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+G:\jxs\jxs\源.cpp(513,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+G:\jxs\jxs\源.cpp(514,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  jxs.vcxproj -> G:\jxs\Debug\jxs.exe
